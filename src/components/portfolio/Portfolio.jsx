@@ -32,15 +32,15 @@ export default function Portfolio() {
         </div>
       
         <div class="step">
-            <h3>Run Buddy</h3>
+            <h3>Camping App</h3>
             <div class="step-info">
                 <div class="step-img">
-                    <a href="https://mlarkin14.github.io/run-buddy/">
+                    <a href="https://bekimab.github.io/Glamorous-Glamping/">
                         <img alt="run" src="./running.png" />
                     </a>
                 </div>
                 <div class="step-text">
-                    <p>Create a personalized running program with trainers</p>
+                    <p>Book a camping trip!</p>
                 </div>
             </div>
         </div>
